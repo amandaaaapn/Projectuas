@@ -22,7 +22,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[Video penjelasan tentang MVC](https://youtu.be/iBEwkSELSOw)
+[Video Youtube Tentang Penjelasan MVC](https://youtu.be/iBEwkSELSOw)
 
 Berikut link repository github :
 
