@@ -24,8 +24,8 @@ Cara Menjalankan Program :
 
 [Video Youtube Tentang Penjelasan MVC](https://youtu.be/iBEwkSELSOw)
 
-Berikut link repository github :
+### Berikut link repository github :
 
 https://github.com/amandaaaapn/Projectuas.git
 
-Sekian, Terima Kasih
+## Sekian, Terima Kasih
